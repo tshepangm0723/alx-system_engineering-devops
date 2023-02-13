@@ -1,0 +1,2 @@
+#!/bin/bash
+eqrep  -V "bin" /etc/passwd
